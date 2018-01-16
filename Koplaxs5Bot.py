@@ -30,7 +30,7 @@ reload(sys)
 sys.setdefaultencoding('utf-8')
 
 helpMessage ="""O҉n҉e҉ ҉P҉i҉e҉c҉e҉ ҉T҉e҉a҉m҉ ҉P҉r҉o҉t҉e҉c҉t҉
-Owner : ✰ЌờᎮḼΛẌֆ✰
+Owner : ✰Asifֆ✰
 -==================-
 ◄]·♦·Menu For Public·♦·[►
 [•]Adminlist
